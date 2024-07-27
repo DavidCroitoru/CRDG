@@ -1,15 +1,17 @@
 🌐 CDRG - Clientless Remote Desktop Gateway
+
 CDRG is a powerful solution for accessing remote desktops without the need for additional client software. This project includes a Linux VM image and a modern application built with Flutter. 🎉
 
 🚀 Features
 Clientless: No need to install client software on user devices.
 Modern Interface: Application developed in Flutter for an intuitive and smooth user experience.
 Multi-protocol support: Supports various protocols for remote access.
-🖥️ VNC
-🖥️ RDP
-🔒 SSH
-📞 Telnet
-📦 Components
+  🖥️ VNC
+  🖥️ RDP
+  🔒 SSH
+  📞 Telnet
+  📦 Components
+
 1. 🖥️ Linux VM Image
 Configured to support remote access through multiple protocols.
 Easy to deploy and manage.
