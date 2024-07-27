@@ -8,6 +8,8 @@ Built on top of Apache Gucamole, MIT License ver 0.9.8.
 Modern Interface: Application developed in Flutter for an intuitive and smooth user experience.
 Multi-protocol support: Supports various protocols for remote access.
 
+NEW AND IMPROVED WOL SUPPORT
+
 ###  🖥️ VNC
 ###  🖥️ RDP
 ###  🔒 SSH
