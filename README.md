@@ -10,6 +10,8 @@ Multi-protocol support: Supports various protocols for remote access.
 
 NEW AND IMPROVED WOL SUPPORT
 
+##CRDG suports file transfers from server to client
+
 ###  🖥️ VNC
 ###  🖥️ RDP
 ###  🔒 SSH
