@@ -2,15 +2,18 @@
 
 ## CDRG is a powerful solution for accessing remote desktops without the need for additional client software. This project includes a Linux VM image and a modern application built with Flutter. 🎉
 
+## CRDG suports file transfers from server to client
+## NEW AND IMPROVED WOL SUPPORT
+
+
 ## 🚀 Features
 Clientless: No need to install client software on user devices.
 Built on top of Apache Gucamole, MIT License ver 0.9.8. 
 Modern Interface: Application developed in Flutter for an intuitive and smooth user experience.
 Multi-protocol support: Supports various protocols for remote access.
 
-NEW AND IMPROVED WOL SUPPORT
 
-## CRDG suports file transfers from server to client
+
 
 ###  🖥️ VNC
 ###  🖥️ RDP
@@ -34,7 +37,7 @@ The VM file can be downloaded from this [link](https://drive.google.com/drive/fo
 
 Run the VM using VMware Player.
 
-##🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 HTML5: For the web interface.
     
