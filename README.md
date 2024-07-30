@@ -7,8 +7,7 @@
 
 
 ## 🚀 Features
-Clientless: No need to install client software on user devices.
-Built on top of Apache Gucamole, MIT License ver 0.9.8. 
+Clientless: No need to install client software on user devices. 
 Modern Interface: Application developed in Flutter for an intuitive and smooth user experience.
 Multi-protocol support: Supports various protocols for remote access.
 
@@ -48,6 +47,8 @@ Tomcat: As the web server.
 Linux Packages: 
 (libcairo2-dev libjpeg-turbo8-dev libpng-dev libtool-bin libossp-uuid-dev libavcodec-dev  libavformat-dev libavutil-dev libswscale-dev build-essential libpango1.0-dev libssh2-1-dev libvncserver-dev libtelnet-dev libpulse-dev libssl-dev libvorbis-dev libwebp-dev libwebsockets-dev ubuntu-desktop-minimal freerdp2-dev freerdp2-x11 xrdp)
 
+### CRDG VM : user: crdg-user
+            : pass: changme
 
 Facilitating connection protocols such as VNC, RDP, SSH, and Telnet.
 
