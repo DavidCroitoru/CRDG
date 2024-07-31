@@ -1,22 +1,5 @@
 (function(){/*
- 2012-2016 Alex Sexton, Eemeli Aro, and Contributors
- @license To use or fork, MIT. To contribute back, Dojo CLA
- AngularJS v1.8.3
- (c) 2010-2020 Google LLC. http://angularjs.org
- License: MIT
- angular-translate - v2.19.1 - 2024-01-21
 
- Copyright (c) 2024 The angular-translate team, Pascal Precht; Licensed MIT
- The buffer module from node.js, for the browser.
-
- @author   Feross Aboukhadijeh <feross@feross.org> <http://feross.org>
- @license  MIT
- Pickr 1.8.2 MIT | https://github.com/Simonwep/pickr  MIT License - https://bitbucket.org/pellepim/jstimezonedetect/src/default/LICENCE.txt
-
- For usage and examples, visit:
- http://pellepim.bitbucket.org/jstz/
-
- Copyright (c) Jon Nylander
 */
 var $jscomp=$jscomp||{};$jscomp.scope={};$jscomp.arrayIteratorImpl=function(q){var r=0;return function(){return r<q.length?{done:!1,value:q[r++]}:{done:!0}}};$jscomp.arrayIterator=function(q){return{next:$jscomp.arrayIteratorImpl(q)}};$jscomp.ASSUME_ES5=!1;$jscomp.ASSUME_NO_NATIVE_MAP=!1;$jscomp.ASSUME_NO_NATIVE_SET=!1;$jscomp.SIMPLE_FROUND_POLYFILL=!1;$jscomp.ISOLATE_POLYFILLS=!1;$jscomp.FORCE_POLYFILL_PROMISE=!1;$jscomp.FORCE_POLYFILL_PROMISE_WHEN_NO_UNHANDLED_REJECTION=!1;
 $jscomp.defineProperty=$jscomp.ASSUME_ES5||"function"==typeof Object.defineProperties?Object.defineProperty:function(q,r,a){if(q==Array.prototype||q==Object.prototype)return q;q[r]=a.value;return q};$jscomp.getGlobal=function(q){q=["object"==typeof globalThis&&globalThis,q,"object"==typeof window&&window,"object"==typeof self&&self,"object"==typeof global&&global];for(var r=0;r<q.length;++r){var a=q[r];if(a&&a.Math==Math)return a}throw Error("Cannot find global object");};$jscomp.global=$jscomp.getGlobal(this);
